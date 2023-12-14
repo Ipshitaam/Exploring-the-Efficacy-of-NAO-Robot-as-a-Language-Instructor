@@ -9,14 +9,14 @@ This is a research project aimed at exploring the effectiveness of using the NAO
 
 ## Project Goals
 
-1. **Assess the Effectiveness of NAO as a Language Instructor:**
-2. **Compare Language Acquisition and Retention:**
-3. **Examine Overall Learning Experiences:**
-4. **Identify Learning Curve Variations:**
-5. **Provide Insights into HRI in Language Education:**
-6. **Validate the Role of Humanoid Robots in Language Education:**
-7. **Enhance Educational Strategies:**
-8. **Contribute to the Field of Human-Robot Interaction:**
+1. **Assess the Effectiveness of NAO as a Language Instructor**
+2. **Compare Language Acquisition and Retention**
+3. **Examine Overall Learning Experiences**
+4. **Identify Learning Curve Variations**
+5. **Provide Insights into HRI in Language Education**
+6. **Validate the Role of Humanoid Robots in Language Education**
+7. **Enhance Educational Strategies**
+8. **Contribute to the Field of Human-Robot Interaction**
 
 
 ## Preliminary Precautions
