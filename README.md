@@ -49,12 +49,12 @@ https://github.com/Ipshitaam/test/assets/153291771/0013cda5-f5d7-40dc-943d-fe74a
 
 # Contribution
 Team Members:
-- **Ipshita Ahmed Moon**
-- **MD. Sameer Iqbal Chowdhury**
-- **Humayra Rashid**
-- **Safayat Hasan**
+- **Ipshita Ahmed Moon, Department of Robotics and Mechatronics Engineering, University of Dhaka**
+- **MD. Sameer Iqbal Chowdhury, Department of Robotics and Mechatronics Engineering, University of Dhaka**
+- **Humayra Rashid, Department of Robotics and Mechatronics Engineering, University of Dhaka**
+- **Safayat Hasan, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 
 Supervisors:
-- **Dr. Lafifa Jamal**
-- **Shifat E Arman**
+- **Dr. Lafifa Jamal, Professor, Department of Robotics and Mechatronics Engineering, University of Dhaka**
+- **Shifat E Arman, Lecturer, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 
