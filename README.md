@@ -1,4 +1,4 @@
-# Exploring the Efficacy of NAO Robot as a Language Instructor: A Comparative Study
+# Exploring the Efficacy of NAO Robot as a Language Instructor
 
 
 ![HRI Lab Project Photo](https://github.com/Ipshitaam/test/assets/153291771/b6f2f0a0-23e2-4ebe-ac8b-5b960b78b6f0)
