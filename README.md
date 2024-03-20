@@ -26,15 +26,12 @@ This is a research project aimed at exploring the effectiveness of using the NAO
 
 
 ## Work Done Thus Far
-- A pre-test question is finalized based on the initial selection of Japanese words.
+- Pre-test and post-test questions were finalized based on the initial selection of Japanese words.
 - The coding based on the design of the full learning session has been done.
 - The questionnaire has been finalized for taking the feedback from the participants.
-
-
-## Expected Work To Be Done
-- Data collection from participants
+- Data collected from participants from pre-tests, post-tests and questionnaires
 - Data analysis
-- Draw valuable insights and results
+- Results and conclusions
 
 
 ## Aditional Materials
