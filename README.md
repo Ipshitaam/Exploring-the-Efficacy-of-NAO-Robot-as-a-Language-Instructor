@@ -41,7 +41,7 @@ This is a research project aimed at exploring the effectiveness of using the NAO
 
 
 ## Demo Videos
-![Video of RLL session](https://youtu.be/jgHAljNlD-c)
+[Video of RLL session](https://youtu.be/jgHAljNlD-c)
 
 
 # Contribution
