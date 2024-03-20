@@ -40,11 +40,11 @@ This is a research project aimed at exploring the effectiveness of using the NAO
 - [Questionnaire from Participants taught by App](https://forms.gle/SZExkoHBJYKFv5sh6)
 
 
-## Demo Videos
+## Demonstration from the Robot-Led Learning (RLL) Session
 [Video of RLL session](https://youtu.be/jgHAljNlD-c)
 
 
-# Contribution
+# Contributors
 Team Members:
 - **Ipshita Ahmed Moon, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 - **MD. Sameer Iqbal Chowdhury, Department of Robotics and Mechatronics Engineering, University of Dhaka**
