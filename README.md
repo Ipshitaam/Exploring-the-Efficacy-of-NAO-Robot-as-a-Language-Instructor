@@ -1,7 +1,7 @@
 # Exploring the Efficacy of NAO Robot as a Language Instructor
 
 
-![HRI Lab Project Photo](https://youtu.be/jgHAljNlD-c)
+![HRI Lab Project Photo](https://github.com/Ipshitaam/Exploring-the-Efficacy-of-NAO-Robot-as-a-Language-Instructor/blob/main/Media%20files%20from%20the%20sessions/RLL_Image_1.jpg)
 
 ## Overview
 
