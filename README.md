@@ -47,9 +47,9 @@ This is a research project aimed at exploring the effectiveness of using the NAO
 # Contributors
 Team Members:
 - **Ipshita Ahmed Moon, Department of Robotics and Mechatronics Engineering, University of Dhaka**
-- **MD. Sameer Iqbal Chowdhury, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 - **Humayra Rashid, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 - **Safayat Hasan, Department of Robotics and Mechatronics Engineering, University of Dhaka**
+- **MD. Sameer Iqbal Chowdhury, Department of Robotics and Mechatronics Engineering, University of Dhaka**
 
 Supervisors:
 - **Dr. Lafifa Jamal, Professor, Department of Robotics and Mechatronics Engineering, University of Dhaka**
